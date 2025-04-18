@@ -1,2 +1,1 @@
-# MY-SECOND-ASSIGNMENT
-OLED DISPLAY
+   Oled Project -- To use the knowledge of oled microcontroller to display text and shapes on screen ... 
