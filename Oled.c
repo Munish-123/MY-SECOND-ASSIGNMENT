@@ -17,7 +17,7 @@ int main(void) {
 
     // Display your name
     ssd1306_SetCursor(0, 32);
-    ssd1306_WriteString("Munish", Font_11x18, White); // Larger font for your name
+    ssd1306_WriteString("munish", Font_11x18, White); // Larger font for your name
 
     ssd1306_UpdateScreen(); // Push buffer to the screen
 
